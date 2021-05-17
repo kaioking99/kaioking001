@@ -1,0 +1,381 @@
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\UA Client Controls.csprojAssemblyReference.cache
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.BrowseTreeCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.NodeListCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectNodesDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ClientUtils.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.AttributesListViewCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.BrowseNodeCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.BrowseTreeViewCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CallRequestDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CallRequestListViewCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ConnectServerCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditAnnotationDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditComplexValue2Dlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.Common.EditComplexValueCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditComplexValueDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditMonitoredItemDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditReadValueIdDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditSubscriptionDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditValue2Ctrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditWriteValueDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EventFilterListViewCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EventListViewCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.GdsDiscoverServersDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.HistoryDataDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.HistoryDataListView.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.HistoryEventCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ReadRequestDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ReadRequestListViewCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectLocaleDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectNodeCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectNodeDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SetFilterOperatorDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SetTypeDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SubscribeDataDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SubscribeDataListViewCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SubscribeEventsDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.TypeFieldsListViewCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.UserNamePasswordDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ViewEventDetailsDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.WriteRequestDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.WriteRequestListViewCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DiscoveredServerOnNetworkListCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DiscoveredServerOnNetworkListDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectHostCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DiscoveredServerListCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DiscoveredServerListDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.HostListCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.HostListDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.GuiUtils.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditArrayDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DiscoverServerDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditDataValueCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditDataValueDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditValueCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EventListView.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ReferenceListCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ViewNodeStateDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.BaseListCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.BaseTreeCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ComplexValueEditDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DataListCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DateTimeValueEditDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.NodeIdCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.NodeIdValueEditDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.NumericValueEditDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ReferenceTypeCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SimpleValueEditDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.StringValueEditDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateListCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateListDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateStoreCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateStoreDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateStoreTreeCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateStoreTreeDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectUrlsCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectProfileDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectProfileCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectCertificateStoreCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectFileCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ViewCertificateDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.YesNoDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ConfiguredServerDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ConfiguredServerListCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ConfiguredServerListDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EndpointSelectorCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.UsernameTokenDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ExceptionDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.HeaderBranding.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.Properties.Resources.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\UA Client Controls.csproj.GenerateResource.cache
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\UA Client Controls.csproj.CoreCompileInputs.cache
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Opc.Ua.ClientControls.dll.config
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Opc.Ua.ClientControls.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Opc.Ua.ClientControls.pdb
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\netstandard.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.AppContext.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Collections.Concurrent.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Collections.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Collections.NonGeneric.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Collections.Specialized.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.ComponentModel.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Console.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Data.Common.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Diagnostics.Debug.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Diagnostics.Process.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Diagnostics.Tools.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Drawing.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Dynamic.Runtime.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Globalization.Calendars.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Globalization.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Globalization.Extensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.IO.Compression.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.IO.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.IO.FileSystem.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.IO.Pipes.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Linq.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Linq.Expressions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Linq.Parallel.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Linq.Queryable.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Net.Http.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Net.NameResolution.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Net.NetworkInformation.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Net.Ping.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Net.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Net.Requests.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Net.Security.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Net.Sockets.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Net.WebSockets.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.ObjectModel.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Reflection.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Reflection.Extensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Reflection.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Resources.Reader.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Resources.ResourceManager.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Resources.Writer.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Runtime.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Runtime.Extensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Runtime.Handles.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Runtime.InteropServices.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Runtime.Numerics.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Security.Claims.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Security.Principal.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Security.SecureString.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Text.Encoding.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Text.RegularExpressions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Threading.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Threading.Overlapped.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Threading.Tasks.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Threading.Thread.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Threading.ThreadPool.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Threading.Timer.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.ValueTuple.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Xml.XDocument.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Xml.XmlDocument.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Xml.XPath.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\BouncyCastle.Crypto.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Newtonsoft.Json.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Opc.Ua.Client.ComplexTypes.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Opc.Ua.Client.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Opc.Ua.Configuration.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Opc.Ua.Core.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Opc.Ua.Server.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Buffers.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Collections.Immutable.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.IO.Pipelines.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Memory.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Numerics.Vectors.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Reflection.Metadata.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Text.Encodings.Web.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\BouncyCastle.Crypto.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\Newtonsoft.Json.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Buffers.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Collections.Immutable.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.IO.Pipelines.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Memory.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Numerics.Vectors.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Reflection.Metadata.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Text.Encodings.Web.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\UA Client Controls.csprojAssemblyReference.cache
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.BrowseTreeCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.NodeListCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectNodesDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ClientUtils.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.AttributesListViewCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.BrowseNodeCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.BrowseTreeViewCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CallRequestDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CallRequestListViewCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ConnectServerCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditAnnotationDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditComplexValue2Dlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.Common.EditComplexValueCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditComplexValueDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditMonitoredItemDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditReadValueIdDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditSubscriptionDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditValue2Ctrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditWriteValueDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EventFilterListViewCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EventListViewCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.GdsDiscoverServersDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.HistoryDataDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.HistoryDataListView.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.HistoryEventCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ReadRequestDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ReadRequestListViewCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectLocaleDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectNodeCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectNodeDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SetFilterOperatorDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SetTypeDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SubscribeDataDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SubscribeDataListViewCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SubscribeEventsDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.TypeFieldsListViewCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.UserNamePasswordDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ViewEventDetailsDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.WriteRequestDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.WriteRequestListViewCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DiscoveredServerOnNetworkListCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DiscoveredServerOnNetworkListDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectHostCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DiscoveredServerListCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DiscoveredServerListDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.HostListCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.HostListDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.GuiUtils.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditArrayDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DiscoverServerDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditDataValueCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditDataValueDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EditValueCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EventListView.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ReferenceListCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ViewNodeStateDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.BaseListCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.BaseTreeCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ComplexValueEditDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DataListCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.DateTimeValueEditDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.NodeIdCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.NodeIdValueEditDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.NumericValueEditDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ReferenceTypeCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SimpleValueEditDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.StringValueEditDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateListCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateListDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateStoreCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateStoreDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateStoreTreeCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.CertificateStoreTreeDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectUrlsCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectProfileDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectProfileCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectCertificateStoreCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.SelectFileCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ViewCertificateDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.YesNoDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ConfiguredServerDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ConfiguredServerListCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ConfiguredServerListDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.EndpointSelectorCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.UsernameTokenDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.ExceptionDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.HeaderBranding.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.Client.Controls.Properties.Resources.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\UA Client Controls.csproj.GenerateResource.cache
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\UA Client Controls.csproj.CoreCompileInputs.cache
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\UA Client Controls.csproj.CopyComplete
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.ClientControls.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ClientControls.Net4\obj\Debug\Opc.Ua.ClientControls.pdb

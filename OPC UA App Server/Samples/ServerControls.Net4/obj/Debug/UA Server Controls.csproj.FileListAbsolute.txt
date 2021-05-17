@@ -1,0 +1,681 @@
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csprojAssemblyReference.cache
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ExceptionDlg.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Properties.Resources.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerDiagnosticsCtrl.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.HeaderBranding.resources
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.GenerateResource.cache
+C:\Users\Le Minh\Desktop\New folder\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CoreCompileInputs.cache
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll.config
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.pdb
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\netstandard.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.AppContext.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Collections.Concurrent.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Collections.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Collections.NonGeneric.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Collections.Specialized.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Console.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Data.Common.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Debug.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Process.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Tools.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Drawing.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Dynamic.Runtime.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Globalization.Calendars.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Globalization.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Globalization.Extensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.IO.Compression.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.IO.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.IO.Pipes.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Linq.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Linq.Expressions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Linq.Parallel.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Linq.Queryable.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Net.Http.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Net.NameResolution.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Net.NetworkInformation.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Net.Ping.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Net.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Net.Requests.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Net.Security.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Net.Sockets.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Net.WebSockets.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.ObjectModel.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Reflection.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Reflection.Extensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Reflection.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Resources.Reader.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Resources.ResourceManager.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Resources.Writer.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Runtime.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Extensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Handles.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Numerics.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Security.Claims.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Security.Principal.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Security.SecureString.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Text.Encoding.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Text.RegularExpressions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Threading.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Threading.Overlapped.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Threading.Tasks.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Threading.Thread.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Threading.ThreadPool.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Threading.Timer.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.ValueTuple.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Xml.XDocument.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Xml.XmlDocument.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Xml.XPath.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\BouncyCastle.Crypto.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Newtonsoft.Json.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Client.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Configuration.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Core.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Server.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Buffers.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Collections.Immutable.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.IO.Pipelines.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Memory.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Numerics.Vectors.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Reflection.Metadata.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Text.Encodings.Web.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csprojAssemblyReference.cache
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ExceptionDlg.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Properties.Resources.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerDiagnosticsCtrl.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.HeaderBranding.resources
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.GenerateResource.cache
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CoreCompileInputs.cache
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CopyComplete
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.dll
+D:\Thesis\UA-.NETStandard-Samples-24-06-2020\UA-.NETStandard-Samples-master\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.pdb
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll.config
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.pdb
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Newtonsoft.Json.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Client.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Configuration.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Core.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Server.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\BouncyCastle.Crypto.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Buffers.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Collections.Immutable.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.IO.Pipelines.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Memory.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Numerics.Vectors.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Reflection.Metadata.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Text.Encodings.Web.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\netstandard.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.AppContext.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Collections.Concurrent.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Collections.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Collections.NonGeneric.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Collections.Specialized.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Console.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Data.Common.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Debug.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Process.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Tools.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Drawing.Primitives.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Dynamic.Runtime.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Globalization.Calendars.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Globalization.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Globalization.Extensions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.IO.Compression.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.IO.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.IO.Pipes.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Linq.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Linq.Expressions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Linq.Parallel.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Linq.Queryable.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Net.Http.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Net.NameResolution.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Net.NetworkInformation.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Net.Ping.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Net.Primitives.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Net.Requests.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Net.Security.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Net.Sockets.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Net.WebSockets.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.ObjectModel.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Reflection.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Reflection.Extensions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Reflection.Primitives.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Resources.Reader.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Resources.ResourceManager.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Resources.Writer.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Runtime.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Extensions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Handles.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Numerics.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Security.Claims.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Security.Principal.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Security.SecureString.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Text.Encoding.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Text.RegularExpressions.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Threading.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Threading.Overlapped.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Threading.Tasks.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Threading.Thread.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Threading.ThreadPool.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Threading.Timer.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.ValueTuple.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Xml.XDocument.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Xml.XmlDocument.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Xml.XPath.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csprojAssemblyReference.cache
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ExceptionDlg.resources
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Properties.Resources.resources
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerDiagnosticsCtrl.resources
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm.resources
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.HeaderBranding.resources
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.GenerateResource.cache
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CoreCompileInputs.cache
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CopyComplete
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.pdb
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm_Next.resources
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.StatusCtrl.resources
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\bin\Debug\MaterialSkin.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.EndpointCtrl.resources
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.SessionCtrl.resources
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.AddressSpaceCtrl.resources
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.UsersCtrl.resources
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll.config
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.pdb
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\MaterialSkin.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Options.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Newtonsoft.Json.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Bindings.Https.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Client.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Configuration.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Core.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Security.Certificates.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Server.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\BouncyCastle.Crypto.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Buffers.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Collections.Immutable.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.Annotations.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Formats.Asn1.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.Pipelines.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Memory.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Numerics.Vectors.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Reflection.Metadata.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Cng.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Text.Encodings.Web.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ValueTuple.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\netstandard.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.AppContext.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Collections.Concurrent.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Collections.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Collections.NonGeneric.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Collections.Specialized.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.Primitives.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Console.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Data.Common.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Contracts.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Debug.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Process.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Tools.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Tracing.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Drawing.Primitives.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Dynamic.Runtime.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Globalization.Calendars.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Globalization.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Globalization.Extensions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.Compression.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.IsolatedStorage.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.Pipes.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Linq.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Linq.Expressions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Linq.Parallel.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Linq.Queryable.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.Http.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.NameResolution.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.NetworkInformation.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.Ping.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.Primitives.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.Requests.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.Security.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.Sockets.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.WebSockets.Client.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.WebSockets.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ObjectModel.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Reflection.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Reflection.Extensions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Reflection.Primitives.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Resources.Reader.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Resources.ResourceManager.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Resources.Writer.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Extensions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Handles.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Numerics.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Claims.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Principal.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.SecureString.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Text.Encoding.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Text.RegularExpressions.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.Overlapped.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.Tasks.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.Thread.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.ThreadPool.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.Timer.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Xml.ReaderWriter.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Xml.XDocument.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Xml.XmlDocument.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Xml.XmlSerializer.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Xml.XPath.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ExceptionDlg.resources
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.AddressSpaceCtrl.resources
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.EndpointCtrl.resources
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.SessionCtrl.resources
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.StatusCtrl.resources
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.UsersCtrl.resources
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Properties.Resources.resources
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerDiagnosticsCtrl.resources
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm.resources
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.HeaderBranding.resources
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm_Next.resources
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.GenerateResource.cache
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CoreCompileInputs.cache
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CopyComplete
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.dll
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.pdb
+E:\LVTN_anh_minh\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csprojAssemblyReference.cache
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csprojAssemblyReference.cache
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ExceptionDlg.resources
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.AddressSpaceCtrl.resources
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.EndpointCtrl.resources
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.SessionCtrl.resources
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.StatusCtrl.resources
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Function_Form.UsersCtrl.resources
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.Properties.Resources.resources
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerDiagnosticsCtrl.resources
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm.resources
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.HeaderBranding.resources
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.Server.Controls.ServerForm_Next.resources
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.GenerateResource.cache
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CoreCompileInputs.cache
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\Opc.Ua.ServerControls.pdb
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll.config
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.ServerControls.pdb
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\MaterialSkin.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Options.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Newtonsoft.Json.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Bindings.Https.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Client.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Configuration.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Core.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Security.Certificates.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Opc.Ua.Server.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\BouncyCastle.Crypto.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Buffers.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Collections.Immutable.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.Annotations.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Formats.Asn1.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.Pipelines.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Memory.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Numerics.Vectors.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Reflection.Metadata.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Cng.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Text.Encodings.Web.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ValueTuple.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\netstandard.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.AppContext.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Collections.Concurrent.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Collections.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Collections.NonGeneric.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Collections.Specialized.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.Primitives.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Console.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Data.Common.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Contracts.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Debug.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Process.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Tools.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Diagnostics.Tracing.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Drawing.Primitives.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Dynamic.Runtime.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Globalization.Calendars.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Globalization.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Globalization.Extensions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.Compression.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.IsolatedStorage.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.Pipes.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Linq.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Linq.Expressions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Linq.Parallel.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Linq.Queryable.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.Http.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.NameResolution.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.NetworkInformation.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.Ping.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.Primitives.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.Requests.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.Security.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.Sockets.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.WebSockets.Client.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Net.WebSockets.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ObjectModel.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Reflection.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Reflection.Extensions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Reflection.Primitives.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Resources.Reader.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Resources.ResourceManager.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Resources.Writer.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Extensions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Handles.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.InteropServices.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Numerics.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Claims.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.Principal.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Security.SecureString.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Text.Encoding.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Text.RegularExpressions.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.Overlapped.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.Tasks.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.Thread.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.ThreadPool.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Threading.Timer.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Xml.ReaderWriter.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Xml.XDocument.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Xml.XmlDocument.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Xml.XmlSerializer.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Xml.XPath.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\obj\Debug\UA Server Controls.csproj.CopyComplete
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ServiceModel.Primitives.dll
+E:\LVTN_1\Server\OPC UA App Server\Samples\ServerControls.Net4\bin\Debug\System.ServiceModel.Primitives.pdb

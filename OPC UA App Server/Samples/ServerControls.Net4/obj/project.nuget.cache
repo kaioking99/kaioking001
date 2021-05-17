@@ -1,0 +1,127 @@
+{
+  "version": 2,
+  "dgSpecHash": "lE6qu3tjaWT9F6CRpQkaRspsTqJG5kleF/yDlSwwCQjVAcdsu61oVyRbhlFo1Pz72J1gA6S0PcS8PrTRfb0UDA==",
+  "success": true,
+  "projectFilePath": "e:\\LVTN_1\\Server\\OPC UA App Server\\Samples\\ServerControls.Net4\\UA Server Controls.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tient\\.nuget\\packages\\materialskin.net4\\1.0.0\\materialskin.net4.1.0.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.2.0\\microsoft.aspnetcore.connections.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.0\\microsoft.aspnetcore.hosting.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.0\\microsoft.aspnetcore.http.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.server.kestrel\\2.2.0\\microsoft.aspnetcore.server.kestrel.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.server.kestrel.core\\2.2.0\\microsoft.aspnetcore.server.kestrel.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.server.kestrel.https\\2.2.0\\microsoft.aspnetcore.server.kestrel.https.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.server.kestrel.transport.abstractions\\2.2.0\\microsoft.aspnetcore.server.kestrel.transport.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.server.kestrel.transport.sockets\\2.2.0\\microsoft.aspnetcore.server.kestrel.transport.sockets.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.configuration\\2.2.0\\microsoft.extensions.configuration.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.2.0\\microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.2.0\\microsoft.extensions.configuration.binder.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\2.2.0\\microsoft.extensions.configuration.environmentvariables.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\2.2.0\\microsoft.extensions.configuration.fileextensions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.2.0\\microsoft.extensions.dependencyinjection.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.2.0\\microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\2.2.0\\microsoft.extensions.fileproviders.physical.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\2.2.0\\microsoft.extensions.filesystemglobbing.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.2.0\\microsoft.extensions.hosting.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.logging\\2.2.0\\microsoft.extensions.logging.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\opcfoundation.netstandard.opc.ua\\1.4.365.48\\opcfoundation.netstandard.opc.ua.1.4.365.48.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.bindings.https\\1.4.365.48\\opcfoundation.netstandard.opc.ua.bindings.https.1.4.365.48.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.client\\1.4.365.48\\opcfoundation.netstandard.opc.ua.client.1.4.365.48.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.configuration\\1.4.365.48\\opcfoundation.netstandard.opc.ua.configuration.1.4.365.48.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.core\\1.4.365.48\\opcfoundation.netstandard.opc.ua.core.1.4.365.48.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.gds.client.common\\1.4.365.48\\opcfoundation.netstandard.opc.ua.gds.client.common.1.4.365.48.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.gds.server.common\\1.4.365.48\\opcfoundation.netstandard.opc.ua.gds.server.common.1.4.365.48.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.security.certificates\\1.4.365.48\\opcfoundation.netstandard.opc.ua.security.certificates.1.4.365.48.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\opcfoundation.netstandard.opc.ua.server\\1.4.365.48\\opcfoundation.netstandard.opc.ua.server.1.4.365.48.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\portable.bouncycastle\\1.8.4\\portable.bouncycastle.1.8.4.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.0\\system.diagnostics.diagnosticsource.4.5.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.io.pipelines\\4.5.2\\system.io.pipelines.4.5.2.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.1\\system.threading.tasks.extensions.4.5.1.nupkg.sha512",
+    "C:\\Users\\tient\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Newtonsoft.Json from 12.0.3 to 10.0.3. Reference the package directly from the project to select a different version. \r\n Opc.Ua.ServerControls -> OPCFoundation.NetStandard.Opc.Ua 1.4.365.48 -> OPCFoundation.NetStandard.Opc.Ua.Core 1.4.365.48 -> Newtonsoft.Json (>= 12.0.3) \r\n Opc.Ua.ServerControls -> Newtonsoft.Json (>= 10.0.3)",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets from 2.2.1 to 2.2.0. Reference the package directly from the project to select a different version. \r\n Opc.Ua.ServerControls -> OPCFoundation.NetStandard.Opc.Ua 1.4.365.48 -> OPCFoundation.NetStandard.Opc.Ua.Bindings.Https 1.4.365.48 -> Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets (>= 2.2.1) \r\n Opc.Ua.ServerControls -> Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets (>= 2.2.0)",
+      "libraryId": "Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Portable.BouncyCastle from 1.8.10 to 1.8.4. Reference the package directly from the project to select a different version. \r\n Opc.Ua.ServerControls -> OPCFoundation.NetStandard.Opc.Ua 1.4.365.48 -> OPCFoundation.NetStandard.Opc.Ua.Gds.Server.Common 1.4.365.48 -> Portable.BouncyCastle (>= 1.8.10) \r\n Opc.Ua.ServerControls -> Portable.BouncyCastle (>= 1.8.4)",
+      "libraryId": "Portable.BouncyCastle",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Portable.BouncyCastle from 1.8.10 to 1.8.4. Reference the package directly from the project to select a different version. \r\n Opc.Ua.ServerControls -> OPCFoundation.NetStandard.Opc.Ua 1.4.365.48 -> OPCFoundation.NetStandard.Opc.Ua.Core 1.4.365.48 -> OPCFoundation.NetStandard.Opc.Ua.Security.Certificates 1.4.365.48 -> Portable.BouncyCastle (>= 1.8.10) \r\n Opc.Ua.ServerControls -> Portable.BouncyCastle (>= 1.8.4)",
+      "libraryId": "Portable.BouncyCastle",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: System.Buffers from 4.5.1 to 4.5.0. Reference the package directly from the project to select a different version. \r\n Opc.Ua.ServerControls -> OPCFoundation.NetStandard.Opc.Ua 1.4.365.48 -> OPCFoundation.NetStandard.Opc.Ua.Core 1.4.365.48 -> OPCFoundation.NetStandard.Opc.Ua.Security.Certificates 1.4.365.48 -> System.Formats.Asn1 5.0.0 -> System.Buffers (>= 4.5.1) \r\n Opc.Ua.ServerControls -> System.Buffers (>= 4.5.0)",
+      "libraryId": "System.Buffers",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: System.Memory from 4.5.4 to 4.5.1. Reference the package directly from the project to select a different version. \r\n Opc.Ua.ServerControls -> OPCFoundation.NetStandard.Opc.Ua 1.4.365.48 -> OPCFoundation.NetStandard.Opc.Ua.Core 1.4.365.48 -> OPCFoundation.NetStandard.Opc.Ua.Security.Certificates 1.4.365.48 -> System.Formats.Asn1 5.0.0 -> System.Memory (>= 4.5.4) \r\n Opc.Ua.ServerControls -> System.Memory (>= 4.5.1)",
+      "libraryId": "System.Memory",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\Opc.Ua.Sample\bin\Debug\netstandard2.0\Opc.Ua.Sample.deps.json
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\Opc.Ua.Sample\bin\Debug\netstandard2.0\Opc.Ua.Sample.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\Opc.Ua.Sample\bin\Debug\netstandard2.0\Opc.Ua.Sample.pdb
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\Opc.Ua.Sample\obj\Debug\netstandard2.0\Opc.Ua.Sample.csprojAssemblyReference.cache
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\Opc.Ua.Sample\obj\Debug\netstandard2.0\Opc.Ua.Sample.csproj.CoreCompileInputs.cache
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\Opc.Ua.Sample\obj\Debug\netstandard2.0\Opc.Ua.Sample.AssemblyInfoInputs.cache
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\Opc.Ua.Sample\obj\Debug\netstandard2.0\Opc.Ua.Sample.AssemblyInfo.cs
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\Opc.Ua.Sample\obj\Debug\netstandard2.0\Opc.Ua.Sample.dll
+D:\Thesis\UA C# Test\OPCUA Server Test\Samples\Opc.Ua.Sample\obj\Debug\netstandard2.0\Opc.Ua.Sample.pdb

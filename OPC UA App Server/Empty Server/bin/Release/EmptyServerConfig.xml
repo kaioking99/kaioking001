@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationConfiguration xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://opcfoundation.org/UA/SDK/Configuration.xsd">
+  <ApplicationName>Empty Server</ApplicationName>
+  <ApplicationUri>urn:desktop-213lail:UA:TestServer</ApplicationUri>
+  <ProductUri>uri:opcfoundation.org:TestServer</ProductUri>
+  <ApplicationType>Server_0</ApplicationType>
+  <SecurityConfiguration>
+    <ApplicationCertificate>
+      <StoreType>Directory</StoreType>
+      <StorePath>%CommonApplicationData%\OPC Foundation\pki\own</StorePath>
+      <SubjectName>CN=Empty Server, C=VN, S=VietNam, O=MyCompany, DC=desktop-213lail</SubjectName>
+      <Thumbprint>8E9791440FB9C36E6AE02233FF008802B06CA503</Thumbprint>
+      <RawData>MIIEpzCCA4+gAwIBAgIIQ83f+7SCevQwDQYJKoZIhvcNAQELBQAwazEfMB0GCgmSJomT8ixkARkWD2Rlc2t0b3AtMjEzbGFpbDESMBAGA1UECgwJTXlDb21wYW55MRAwDgYDVQQIDAdWaWV0TmFtMQswCQYDVQQGEwJWTjEVMBMGA1UEAwwMRW1wdHkgU2VydmVyMB4XDTIwMDcwNzE1NDQ0MloXDTIxMDcwNzE1NDQ0MlowazEfMB0GCgmSJomT8ixkARkWD2Rlc2t0b3AtMjEzbGFpbDESMBAGA1UECgwJTXlDb21wYW55MRAwDgYDVQQIDAdWaWV0TmFtMQswCQYDVQQGEwJWTjEVMBMGA1UEAwwMRW1wdHkgU2VydmVyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo+4ivJavE2BzVnEPTJalnD6M40b8ibu86mQtoqLfO4p7dNW7fczG18zKgDBIZ/Fx4ukOLKHsXsL6XHV1G/AYCpxGDf8nZF000PU2BtDXvgrJeK86VGQxCpaNiVGJR+v3VJQ1Ofc0QkuF16Y7V90risTFY86sidbhaOubFRd6VsYLQUP959dv3UMtqZwIK6Co5VCNYsopf31E8W3E35QbbWILzocV5XHz2BuDCR6yGV00+xmGM4KeR+tnB74DWcz2MbtYIvJ4cJDwMS2+t4qELP/arG5Q6Wf6U4b8JKrdKkmNSjta0+KrxXPMc2ZLuHt9GLmS9mpkHxsRLAVJSawqYwIDAQABo4IBTTCCAUkwHQYDVR0OBBYEFIDpE1PBOGxGSQntEQmupkrj507CMAwGA1UdEwEB/wQCMAAwgZwGA1UdIwSBlDCBkYAUgOkTU8E4bEZJCe0RCa6mSuPnTsKhb6RtMGsxHzAdBgoJkiaJk/IsZAEZFg9kZXNrdG9wLTIxM2xhaWwxEjAQBgNVBAoMCU15Q29tcGFueTEQMA4GA1UECAwHVmlldE5hbTELMAkGA1UEBhMCVk4xFTATBgNVBAMMDEVtcHR5IFNlcnZlcoIIQ83f+7SCevQwDgYDVR0PAQH/BAQDAgL0MCAGA1UdJQEB/wQWMBQGCCsGAQUFBwMBBggrBgEFBQcDAjBJBgNVHREEQjBAhiF1cm46ZGVza3RvcC0yMTNsYWlsOlVBOlRlc3RTZXJ2ZXKCD2Rlc2t0b3AtMjEzbGFpbIcEwKgBZIcELXxetDANBgkqhkiG9w0BAQsFAAOCAQEATTyj4JpNHDvgBeP8SZKClijbU9Rg/XcK79khKdfRPDl1ZL8Z4Ks+iQmv13cj16PloTCBfIFNSChUB+CSZAxpW5ttnsObfIKDCWRNgYemYPzHrzuVwHNx3XlLmGi/SBlhB6hFyZTM3QWGAIF1j32TnB8aLr6zb1qO8jRpjbEw5+C0qfQqlQf/AEmjMIegtUk+gRTD/qgaTgrca2ZlAfO22lgz2tDufnPdm94HxenTbLpjB1zQb7UEot0Yfgz4o0Yyd4D/enIp19uX9NDNSNqlVULWN3ifX/SgwhiJAVI1i6ElZoCvj6SBMhpW3U6vYpL+Bkkisx+OQ1/koeakDwPFrQ==</RawData>
+    </ApplicationCertificate>
+    <TrustedIssuerCertificates>
+      <StoreType>Directory</StoreType>
+      <StorePath>%CommonApplicationData%\OPC Foundation\pki\issuer</StorePath>
+      <TrustedCertificates />
+    </TrustedIssuerCertificates>
+    <TrustedPeerCertificates>
+      <StoreType>Directory</StoreType>
+      <StorePath>%CommonApplicationData%\OPC Foundation\pki\trusted</StorePath>
+      <TrustedCertificates />
+    </TrustedPeerCertificates>
+    <NonceLength>32</NonceLength>
+    <RejectedCertificateStore>
+      <StoreType>Directory</StoreType>
+      <StorePath>%CommonApplicationData%\OPC Foundation\pki\rejected</StorePath>
+    </RejectedCertificateStore>
+    <AutoAcceptUntrustedCertificates>true</AutoAcceptUntrustedCertificates>
+    <UserRoleDirectory i:nil="true" />
+    <RejectSHA1SignedCertificates>true</RejectSHA1SignedCertificates>
+    <MinimumCertificateKeySize>2048</MinimumCertificateKeySize>
+    <AddAppCertToTrustedStore>true</AddAppCertToTrustedStore>
+    <UserIssuerCertificates>
+      <StoreType>Directory</StoreType>
+      <StorePath>%CommonApplicationData%\OPC Foundation\pki\issuerUser</StorePath>
+      <TrustedCertificates />
+    </UserIssuerCertificates>
+    <TrustedUserCertificates>
+      <StoreType>Directory</StoreType>
+      <StorePath>%CommonApplicationData%\OPC Foundation\pki\trustedUser</StorePath>
+      <TrustedCertificates />
+    </TrustedUserCertificates>
+  </SecurityConfiguration>
+  <TransportConfigurations />
+  <TransportQuotas>
+    <OperationTimeout>600000</OperationTimeout>
+    <MaxStringLength>1048576</MaxStringLength>
+    <MaxByteStringLength>1048576</MaxByteStringLength>
+    <MaxArrayLength>65535</MaxArrayLength>
+    <MaxMessageSize>4194304</MaxMessageSize>
+    <MaxBufferSize>65535</MaxBufferSize>
+    <ChannelLifetime>300000</ChannelLifetime>
+    <SecurityTokenLifetime>3600000</SecurityTokenLifetime>
+  </TransportQuotas>
+  <ServerConfiguration>
+    <BaseAddresses xmlns:d3p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+      <d3p1:String>https://desktop-213lail:4840/</d3p1:String>
+      <d3p1:String>opc.tcp://desktop-213lail:4841/</d3p1:String>
+    </BaseAddresses>
+    <AlternateBaseAddresses xmlns:d3p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+      <d3p1:String>opc.tcp://192.168.1.100:4841/</d3p1:String>
+      <d3p1:String>opc.tcp://45.124.94.180:4841/</d3p1:String>
+    </AlternateBaseAddresses>
+    <SecurityPolicies>
+      <ServerSecurityPolicy>
+        <SecurityMode>SignAndEncrypt_3</SecurityMode>
+        <SecurityPolicyUri>http://opcfoundation.org/UA/SecurityPolicy#Basic256Sha256</SecurityPolicyUri>
+      </ServerSecurityPolicy>
+      <ServerSecurityPolicy i:nil="true" />
+    </SecurityPolicies>
+    <MinRequestThreadCount>10</MinRequestThreadCount>
+    <MaxRequestThreadCount>100</MaxRequestThreadCount>
+    <MaxQueuedRequestCount>200</MaxQueuedRequestCount>
+    <UserTokenPolicies xmlns:d3p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+      <d3p1:UserTokenPolicy>
+        <d3p1:PolicyId>0</d3p1:PolicyId>
+        <d3p1:TokenType>Anonymous_0</d3p1:TokenType>
+        <d3p1:IssuedTokenType i:nil="true" />
+        <d3p1:IssuerEndpointUrl i:nil="true" />
+        <d3p1:SecurityPolicyUri i:nil="true" />
+      </d3p1:UserTokenPolicy>
+    </UserTokenPolicies>
+    <DiagnosticsEnabled>false</DiagnosticsEnabled>
+    <MaxSessionCount>100</MaxSessionCount>
+    <MinSessionTimeout>10000</MinSessionTimeout>
+    <MaxSessionTimeout>3600000</MaxSessionTimeout>
+    <MaxBrowseContinuationPoints>10</MaxBrowseContinuationPoints>
+    <MaxQueryContinuationPoints>10</MaxQueryContinuationPoints>
+    <MaxHistoryContinuationPoints>100</MaxHistoryContinuationPoints>
+    <MaxRequestAge>600000</MaxRequestAge>
+    <MinPublishingInterval>100</MinPublishingInterval>
+    <MaxPublishingInterval>3600000</MaxPublishingInterval>
+    <PublishingResolution>100</PublishingResolution>
+    <MaxSubscriptionLifetime>3600000</MaxSubscriptionLifetime>
+    <MaxMessageQueueSize>10</MaxMessageQueueSize>
+    <MaxNotificationQueueSize>100</MaxNotificationQueueSize>
+    <MaxNotificationsPerPublish>100</MaxNotificationsPerPublish>
+    <MinMetadataSamplingInterval>1000</MinMetadataSamplingInterval>
+    <AvailableSamplingRates />
+    <MaxRegistrationInterval>30000</MaxRegistrationInterval>
+    <NodeManagerSaveFile i:nil="true" />
+    <MinSubscriptionLifetime>10000</MinSubscriptionLifetime>
+    <MaxPublishRequestCount>20</MaxPublishRequestCount>
+    <MaxSubscriptionCount>100</MaxSubscriptionCount>
+    <MaxEventQueueSize>10000</MaxEventQueueSize>
+    <ServerProfileArray xmlns:d3p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+      <d3p1:String>http://opcfoundation.org/UA-Profile/Server/StandardUA2017</d3p1:String>
+    </ServerProfileArray>
+    <ShutdownDelay>5</ShutdownDelay>
+    <ServerCapabilities xmlns:d3p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+      <d3p1:String>DA</d3p1:String>
+    </ServerCapabilities>
+    <SupportedPrivateKeyFormats xmlns:d3p1="http://opcfoundation.org/UA/2008/02/Types.xsd" />
+    <MaxTrustListSize>0</MaxTrustListSize>
+    <MultiCastDnsEnabled>true</MultiCastDnsEnabled>
+    <ReverseConnect i:nil="true" />
+  </ServerConfiguration>
+  <Extensions xmlns:d2p1="http://opcfoundation.org/UA/2008/02/Types.xsd">
+    <d2p1:XmlElement>
+      <EmptyServerConfiguration xmlns="http://opcfoundation.org/Quickstarts/Empty">
+      </EmptyServerConfiguration>
+    </d2p1:XmlElement>
+  </Extensions>
+  <TraceConfiguration>
+    <OutputFilePath>Logs\EmptyServer.log.txt</OutputFilePath>
+    <DeleteOnLoad>true</DeleteOnLoad>
+    <TraceMasks>515</TraceMasks>
+  </TraceConfiguration>
+  <DisableHiResClock>true</DisableHiResClock>
+</ApplicationConfiguration>
